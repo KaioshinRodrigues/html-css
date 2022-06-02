@@ -1,5 +1,5 @@
 # html-css
- Stuff i make with HTML and CSS
+ Sites i made using HTML and CSS
  
 <a href="https://kaioshinrodrigues.github.io/html-css/Des010_Android/"> Open Des010 challenge</a> <br>
 <a href="https://kaioshinrodrigues.github.io/html-css/Des011_Space/"> Open Des011 challenge</a> <br>
